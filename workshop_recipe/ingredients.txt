@@ -1,3 +1,5 @@
 This is a test file for the workshop.
 
 I'm adding this line to test the experimental branch, so I can merge them afterwards for testing purposes. 
+
+Exercise 4 adding new ingredient.
